@@ -36,3 +36,6 @@ nosetests.xml
 
 # Vagrant
 /.vagrant/
+contrib/vagrant/.Python
+contrib/vagrant/include/
+contrib/vagrant/share/
